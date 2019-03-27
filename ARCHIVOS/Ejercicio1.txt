@@ -1,0 +1,13 @@
+1.Ejercicio:
+  a.Agregar una clase : Producto 
+  b.Agregar las propiedades:Codigo,Nombre,PrecioSoles
+  c.Agregar 2 contructores
+  d.Agregar 2 metodos:Convertir el precio en Dolares y Obtener el nombre
+                                        del producto en mayusculas  
+  e.Crear una clase: Articulo
+  f.Heredar las propiedades y metodos de producto
+  g.Agregar las propiedades:Categoria,UnidadMedida
+  h.Agregar 2 contructores
+  i.Crear un metodo:Convertir el precio en euros  
+  j.Hacer poliformismo del metodo Obtener el nombre                                         del producto en mayusculas  para que convierta en Minusculas
+ 

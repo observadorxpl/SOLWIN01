@@ -1,0 +1,5 @@
+E:\Users\Alumno\Desktop\C#\CLASE 01\PROYECTOS\POO\POO\bin\Debug\POO.exe.config
+E:\Users\Alumno\Desktop\C#\CLASE 01\PROYECTOS\POO\POO\obj\Debug\POO.csprojResolveAssemblyReference.cache
+E:\Users\Alumno\Desktop\C#\CLASE 01\PROYECTOS\POO\POO\obj\Debug\POO.Form1.resources
+E:\Users\Alumno\Desktop\C#\CLASE 01\PROYECTOS\POO\POO\obj\Debug\POO.Properties.Resources.resources
+E:\Users\Alumno\Desktop\C#\CLASE 01\PROYECTOS\POO\POO\obj\Debug\POO.csproj.GenerateResource.Cache
